@@ -48,7 +48,7 @@ The objective of this lab exercise is to familiarize learners with common Git op
 
 **Step 4: Stash Changes**
 
-1. Create a new file in your working directory (e.g., `new-feature.js`).
+1. Create a new file in your working directory (e.g., `new-feature.java`).
 
 2. Realize you need to switch to another branch but don't want to commit your changes yet. Stash the changes:
 
